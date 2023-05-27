@@ -1,7 +1,7 @@
 ### Hi there 👋
-https://giphy.com/embed/l5JbspfwZ0yjHjlJ0K
+
 [Embed Title](https://giphy.com/embed/l5JbspfwZ0yjHjlJ0K "@embed")
-![Alt text](https://giphy.com/embed/l5JbspfwZ0yjHjlJ0K "This is some image...")
+
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
