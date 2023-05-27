@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tenor.com/view/qoobee-hi-hello-wave-gif-25562895)
+![hi](qoobee-hi.gif)
 
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
