@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://giphy.com/embed/l5JbspfwZ0yjHjlJ0K)
 [Embed Title](https://giphy.com/embed/l5JbspfwZ0yjHjlJ0K "@embed")
 
 <!--
