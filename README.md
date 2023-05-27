@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img height="50" src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif"/>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif)
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tenor.com/view/qoobee-hi-hello-wave-gif-25562895)
+
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
