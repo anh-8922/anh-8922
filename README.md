@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hi](qoobee-hi.gif)
+![hi](wall.gif)
 
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
