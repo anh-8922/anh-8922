@@ -12,7 +12,7 @@
 ### Constantly build solid foundation in web development technologies, expand my knowledge and skills.
 ### enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
 
-<div id="sloganr" align="center" font-weight="bold" font-size="36">
+<div id="slogan" align="center" fontweight="bold" fontsize="36">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
 </div>
 <!--
