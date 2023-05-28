@@ -8,13 +8,14 @@
 </div>
 
 ## Here is my Profle
-### Anh Kim Chau. Web Developer with a passion for creating engaging and user-friendly web experiences.
-### Constantly build solid foundation in web development technologies, expand my knowledge and skills.
-### enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
+#### Anh Kim Chau. Web Developer with a passion for creating engaging and user-friendly web experiences.
+#### Constantly build solid foundation in web development technologies, expand my knowledge and skills.
+#### enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
 
 <div id="slogan" align="center" fontweight="bold" fontsize="36">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
 </div>
+## Technical Skills
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
