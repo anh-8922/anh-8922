@@ -8,10 +8,10 @@
 </div>
 
 ## Here is my Profle
-# Anh Kim Chau. Web Developer with a passion for creating engaging and user-friendly web experiences.
-# Constantly build solid foundation in web development technologies, expand my knowledge and skills.
-# enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
-"Seamless User Experiences, Seamless Web Development."
+### Anh Kim Chau. Web Developer with a passion for creating engaging and user-friendly web experiences.
+### Constantly build solid foundation in web development technologies, expand my knowledge and skills.
+### enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
+
 <div id="sloganr" align="center">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
 </div>
