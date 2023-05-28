@@ -16,7 +16,7 @@
   <p>"Seamless User Experiences, Seamless Web Development."</p>
 </div>
 
-## Technicak Skills
+## Technical Skills
  <picture>
 <img alt="CSS3 logo." src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width='225px' height='100px' >
  </picture>
@@ -32,6 +32,9 @@
   <picture>
 <img alt="Bootstrap logo." src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width='70px' height='70px'  >
  </picture>
+ 
+## Hobbies
+ 
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
