@@ -3,8 +3,10 @@
 </div>
 
 # It's Anh Chau's code space 👋
+<div id="sticker" align="center">
+  <img src="molang.gif" width="200"/>
+</div>
 
-![hi](molang.gif)
 
 <!--
 **anh-8922/anh-8922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
