@@ -7,10 +7,10 @@
   <img src="molang.gif" width="200"/>
 </div>
 
-## Here is my Profile
-#### Anh Kim Chau. Web Developer with a passion for creating engaging and user-friendly web experiences.
-#### Constantly build solid foundation in web development technologies, expand my knowledge and skills.
-#### enjoy collaborating with teams, learning from experienced developers, and taking on new challenges.
+## Hi, I am Anh.
+#### An enthusiastic and committed JavaScript Engineer skilled in developing user-friendly, visually appealing, and functional websites.
+#### Proficient in front-end and back-end development enabling the creation of comprehensive web applications. Adept at resolving complex issues and delivering top-notch projects to clients.
+#### Flourish in collaborative settings, actively engaging with fellow developers to devise inventive solutions.
 
 <div id="slogan" align="center" fontweight="bold" fontsize="36">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
