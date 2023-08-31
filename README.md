@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="yJ.gif" width="1200" height="250"/>
+  <img src="1AZo.gif" width="1200" height="250"/>
 </div>
 
 # It's Anh Chau's code space 👋
