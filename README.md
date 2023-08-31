@@ -9,7 +9,8 @@
 
 ## Hi, I am Anh.
 #### An enthusiastic and committed JavaScript Engineer skilled in developing user-friendly, visually appealing, and functional websites.
-#### Proficient in front-end and back-end development enabling the creation of comprehensive web applications. Adept at resolving complex issues and delivering top-notch projects to clients.
+#### Proficient in front-end and back-end development enabling the creation of comprehensive web applications. 
+#### Adept at resolving complex issues and delivering top-notch projects to clients.
 #### Flourish in collaborative settings, actively engaging with fellow developers to devise inventive solutions.
 
 <div id="slogan" align="center" fontweight="bold" fontsize="36">
