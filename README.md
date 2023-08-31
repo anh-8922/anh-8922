@@ -4,7 +4,7 @@
 
 # It's Anh Chau's code space 👋
 <div id="sticker" align="center">
-  <img src="yJ.gif" width="200"/>
+  <img src="JXA0.gif" width="200"/>
 </div>
 
 ## Hi, I am Anh.
