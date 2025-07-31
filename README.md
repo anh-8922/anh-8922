@@ -10,9 +10,9 @@
 ## Hi, I am Anh.
 #### As a solution-oriented developer, I thrive on creating and maintaining user-friendly, visually engaging websites and applications. I enjoy collaborating with others, continuously learning, and developing my skills and knowledge to deliver impactful digital solutions.
 
-<div id="slogan" align="center" fontweight="bold" fontsize="36">
+<!--div id="slogan" align="center" fontweight="bold" fontsize="36">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
-</div>
+</div-->
 
 ## Technical Skills
  <picture>
