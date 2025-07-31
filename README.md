@@ -8,10 +8,7 @@
 </div>
 
 ## Hi, I am Anh.
-#### An enthusiastic and committed JavaScript Engineer skilled in developing user-friendly, visually appealing, and functional websites.
-#### Proficient in front-end and back-end development enabling the creation of comprehensive web applications. 
-#### Adept at resolving complex issues and delivering top-notch projects to clients.
-#### Flourish in collaborative settings, actively engaging with fellow developers to devise inventive solutions.
+#### As a solution-oriented developer, I thrive on creating and maintaining user-friendly, visually engaging websites and applications. I enjoy collaborating with others, continuously learning, and developing my skills and knowledge to deliver impactful digital solutions.
 
 <div id="slogan" align="center" fontweight="bold" fontsize="36">
   <p>"Seamless User Experiences, Seamless Web Development."</p>
