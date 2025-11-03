@@ -15,8 +15,8 @@ I thrive on transforming ideas into functional digital products, ensuring seamle
 
 ## 🧠 Technical Skills  
 **Frontend:** HTML, CSS, JavaScript, React, Vue, Tailwind, Bootstrap  
-**CMS:** WordPress (ACF), CraftCMS (Twig), Language 2, Contentful, Wix  
-**Backend:** PHP, Laravel, PHPUnit, Python, MySQL, APIs, NoSQL (MongoDB, DynamoDB)  
+**CMS:** WordPress, CraftCMS (Twig Language 2), Contentful, Wix  
+**Backend:** PHP, Laravel, PHPUnit (Unit testing), Python, MySQL, APIs, NoSQL (MongoDB, DynamoDB)  
 **DevOps & Tools:** Docker, AWS, Azure, Agile, Jira, Git, Mercurial, Bitbucket Pipelines  
 **UI/UX:** Responsive Design, Wireframing, Accessibility, Usability, SEO Optimisation  
 **Soft Skills:** Attention to Detail, Problem-Solving, Collaboration, Adaptability, Empathy, Continuous Learning  
@@ -25,6 +25,11 @@ I thrive on transforming ideas into functional digital products, ensuring seamle
 
 ## 💼 Experience  
 
+### **Web Developer — Broadchart International Ltd (I Like Music)**  
+*Oct 2025 – Present (Freelance)*  
+- Contributing to **cloud-based, scalable solutions** for music asset management and distribution.  
+- Supporting the enhancement of one of the **world’s largest online music catalogues** for broadcast, education, and entertainment.  
+
 ### **Web Developer — Learning on Screen (The British Universities and Colleges Film and Video Council)**  
 *Nov 2023 – Sept 2025*  
 - Designed, developed, and maintained accessible, user-friendly web applications.  
@@ -32,11 +37,6 @@ I thrive on transforming ideas into functional digital products, ensuring seamle
 - Contributed to the migration from on-premise servers to **AWS cloud infrastructure**.  
 - Enhanced QA testing workflows by producing reusable templates and detailed documentation.  
 - Collaborated with designers and developers to refine **UI/UX** and improve accessibility.  
-
-### **Web Developer — Broadchart International Ltd (I Like Music)**  
-*Oct 2025 – Present (Freelance)*  
-- Contributing to **cloud-based, scalable solutions** for music asset management and distribution.  
-- Supporting the enhancement of one of the **world’s largest online music catalogues** for broadcast, education, and entertainment.  
 
 ### **Frontend Developer & Web Administrator — Freelance**  
 *Jan 2021 – Present*  
