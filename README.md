@@ -1,61 +1,55 @@
 <div id="header" align="center">
-  <img src="1AZo.gif" width="100%" height="250" alt="Header banner"/>
+  <!--img src="1AZo.gif" width="100%" height="250" alt="Header banner"/-->
 </div>
 
 # 👋 Hi  
 <div id="sticker" align="center">
-  <img src="JXA0.gif" width="160" alt="Animated sticker"/>
+  <!--img src="JXA0.gif" width="160" alt="Animated sticker"/-->
 </div>
 
-### 💡 Solution-Oriented Developer  
-I’m passionate about crafting **intuitive, visually engaging websites and applications**.  
-I enjoy working in **collaborative, creative environments**, where I can apply design thinking and continuous learning to build meaningful digital experiences.  
+### 💻 Full-Stack Developer  
+I’m a collaborative and solution-oriented developer passionate about building **accessible, user-focused web applications**.  
+I thrive on transforming ideas into functional digital products, ensuring seamless user experiences through thoughtful design, maintainable code, and cross-team collaboration.
 
 ---
 
 ## 🧠 Technical Skills  
-<div align="center">
- <picture>
-  <img alt="HTML5 and CSS3 logo" src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width='180' height='80'>
- </picture>
- <picture>
-  <img alt="React logo" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" width='80' height='80'>
- </picture>
- <picture>
-  <img alt="Figma logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkO21faiYE7-PH9fk1GwjjMnNiQQ5U3JdzvVZ-6vjBBeWRaxslFU_3yO73G0ShIbUBr4&usqp=CAU" width='80' height='80'>
- </picture>
- <picture>
-  <img alt="Git logo" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width='70' height='70'>
- </picture>
- <picture>
-  <img alt="Bootstrap logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width='70' height='70'>
- </picture>
-</div>
-
-> Currently exploring **backend development (Node.js, Python)** and expanding toward **full-stack proficiency**.
+**Frontend:** HTML, CSS, JavaScript, React, Vue, Tailwind, Bootstrap  
+**CMS:** WordPress (ACF), CraftCMS (Twig), Language 2, Contentful, Wix  
+**Backend:** PHP, Laravel, PHPUnit, Python, MySQL, APIs, NoSQL (MongoDB, DynamoDB)  
+**DevOps & Tools:** Docker, AWS, Azure, Agile, Jira, Git, Mercurial, Bitbucket Pipelines  
+**UI/UX:** Responsive Design, Wireframing, Accessibility, Usability, SEO Optimisation  
+**Soft Skills:** Attention to Detail, Problem-Solving, Collaboration, Adaptability, Empathy, Continuous Learning  
 
 ---
 
-## 🌱 Current Focus  
-- Developing clean, modular, and maintainable front-end code  
-- Enhancing UI/UX through thoughtful design and accessibility  
-- Learning **advanced JavaScript concepts** and **API integration**  
-- Collaborating across design and development teams  
+## 💼 Experience  
 
----
+### **Web Developer — Learning on Screen (The British Universities and Colleges Film and Video Council)**  
+*Nov 2023 – Sept 2025*  
+- Designed, developed, and maintained accessible, user-friendly web applications.  
+- Migrated collections and databases, ensuring **data integrity** and **system interoperability**.  
+- Contributed to the migration from on-premise servers to **AWS cloud infrastructure**.  
+- Enhanced QA testing workflows by producing reusable templates and detailed documentation.  
+- Collaborated with designers and developers to refine **UI/UX** and improve accessibility.  
 
-## 🎬 Projects & Interests  
-- 🎥 Building digital collections and interactive media apps  
-- 💻 Experimenting with APIs and front-end frameworks  
-- ✏️ Designing intuitive user interfaces with Figma  
-- 📚 Continuous learning through hands-on projects  
+### **Web Developer — Broadchart International Ltd (I Like Music)**  
+*Oct 2025 – Present (Freelance)*  
+- Contributing to **cloud-based, scalable solutions** for music asset management and distribution.  
+- Supporting the enhancement of one of the **world’s largest online music catalogues** for broadcast, education, and entertainment.  
+
+### **Frontend Developer & Web Administrator — Freelance**  
+*Jan 2021 – Present*  
+- Delivered responsive, visually engaging websites tailored to client needs.  
+- Focused on accessibility, performance, and SEO optimisation.  
+- Provided maintenance, updates, and troubleshooting to ensure consistent reliability.  
 
 ---
 
 ## 📫 Get in Touch  
 - **GitHub:** [github.com/anh-8922](https://github.com/anh-8922)  
-- **LinkedIn:** [linkedin.com/in/anh-chau](#) <!-- Add your link -->  
-- **Email:** _your.email@example.com_  
+- **LinkedIn:** [https://www.linkedin.com/in/anh-kim-chau/](#) <!-- Add your link -->  
+- **Email:** _anhchau8922@gmail.com_  
 
 ---
 
