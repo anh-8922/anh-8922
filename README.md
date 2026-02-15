@@ -4,6 +4,7 @@
 
 ### 💻 Full-Stack Developer | Building Accessible & User-Focused Web Applications
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chauanh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-kim-chau/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhchau8922@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anh-8922)
@@ -20,9 +21,10 @@ I'm a collaborative and solution-oriented developer passionate about transformin
 const anh = {
     pronouns: "she/her",
     location: "UK",
+    portfolio: "https://chauanh.netlify.app/",
     currentFocus: ["Cloud Infrastructure", "Accessibility", "Full-Stack Development"],
-    learning: ["AWS Services", "Advanced React Patterns", "DevOps Best Practices"],
-    funFact: "I love bridging the gap between design and technology"
+    learning: ["Data Structures", "Algorithms", "DevOps Best Practices", "Design Patterns", "UI/UX"],
+    funFact: "I love bridging the gap between design and technology while understanding User Experience through the lens of psychology, child development, and parenting"
 };
 ```
 
@@ -48,9 +50,11 @@ const anh = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### CMS & Tools
+### CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -65,24 +69,18 @@ const anh = {
 ## 💼 Professional Experience
 
 ### 🎵 **Web Developer** | Broadchart International Ltd (I Like Music)
-*Oct 2025 – Present (Freelance)*
+*2025 – Present (Contractor)*
 - Contributing to cloud-based, scalable solutions for music asset management and distribution
 - Supporting one of the world's largest online music catalogues for broadcast, education, and entertainment
-- Technologies: `AWS` `PHP` `MySQL` `RESTful APIs`
+- Technologies: `AWS` `PHP` `MySQL` `RESTful APIs` `Wordpress` `Docker` `React` 
 
 ### 📺 **Web Developer** | Learning on Screen
-*Nov 2023 – Sept 2025*
+*2023 – 2025*
 - Designed and maintained accessible, user-friendly web applications serving educational institutions
 - Led migration from on-premise to **AWS cloud infrastructure**, ensuring data integrity and system interoperability
 - Enhanced QA workflows with reusable templates and comprehensive documentation
 - Collaborated across teams to refine UI/UX and improve web accessibility standards
-- Technologies: `PHP` `Laravel` `AWS` `MySQL` `Docker` `Vue.js`
-
-### 🌐 **Frontend Developer & Web Administrator** | Freelance
-*Jan 2021 – Present*
-- Delivered responsive, accessible websites with focus on performance and SEO optimization
-- Provided ongoing maintenance, updates, and troubleshooting for client reliability
-- Technologies: `React` `WordPress` `Tailwind CSS` `JavaScript`
+- Technologies: `PHP` `Wordpress` `AWS` `MySQL` `Docker` `React` `RESTful APIs`
 
 ---
 
@@ -102,11 +100,11 @@ const anh = {
 
 ## 🎯 What I'm Focusing On
 
-- 🔭 Currently working on **scalable cloud solutions** for music distribution
-- 🌱 Learning **advanced AWS services** and **DevOps practices**
-- 👯 Open to collaborate on **accessibility-focused projects**
-- 💬 Ask me about **web accessibility**, **Laravel**, **React**, or **AWS**
-- ⚡ Fun fact: I believe every pixel matters in creating meaningful user experiences
+- 🔭 Currently working on **[ILM Platform](https://web.ilikemusic.com/)** for music assets management and distribution
+- 🌱 Learning **[IBM DevOps and Software Engineering](https://www.coursera.org/professional-certificates/devops-and-software-engineering)** and **[Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)**
+- 👯 Open to collaborate on **accessibility-focused projects** and **user-centered design**
+- 💬 Ask me about **web accessibility**, **Laravel**, **React**, **CMS development**, or **creating inclusive digital experiences**
+- ⚡ Fun fact: I approach web development through a parenting lens—designing with empathy, patience, and the belief that every user deserves a nurturing digital experience
 
 ---
 
@@ -116,6 +114,7 @@ I'm always interested in connecting with fellow developers, discussing new proje
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Site-FF5722?style=for-the-badge)](https://chauanh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anh-kim-chau/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:anhchau8922@gmail.com)
 
