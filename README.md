@@ -121,20 +121,6 @@ const anh = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anh-8922&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anh-8922&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anh-8922&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 What I'm Focusing On
 
 - 🔭 Currently working on **[ILM Platform](https://web.ilikemusic.com/)** for music assets management and distribution
